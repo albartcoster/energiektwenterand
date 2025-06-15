@@ -4,5 +4,17 @@
   },
   "about.qmd": {
     "about.html": "2dcd2306"
+  },
+  "blog.qmd": {
+    "blog.html": "7f2986c6"
+  },
+  "contact.qmd": {
+    "contact.html": "bfa4f0f7"
+  },
+  "cooperatie.qmd": {
+    "cooperatie.html": "777b6a27"
+  },
+  "projecten.qmd": {
+    "projecten.html": "a66cda1e"
   }
 }

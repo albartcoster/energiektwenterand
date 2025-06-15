@@ -2,12 +2,22 @@ project:
   type: website
 
 website:
-  title: "website_energiektwenterand"
+  title: "Energiek Twenterand"
   navbar:
+    logo: "images/energiektwenterand.png"
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Begin
+      - href: about.qmd
+        text: Ons verhaal
+      - href: cooperatie.qmd
+        text: Coöperatie
+      - href: projecten.qmd
+        text: Projecten
+      - href: blog.qmd
+        text: Blog
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:

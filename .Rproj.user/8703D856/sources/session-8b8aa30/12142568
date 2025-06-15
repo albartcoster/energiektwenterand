@@ -3,7 +3,7 @@
     "path": "C:/Users/Eigenaar/OneDrive - Dairyconsult/website_energiektwenterand/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "3005307664",
+    "hash": "522596380",
     "contents": "",
     "dirty": false,
     "created": 1750015394863.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "2:0",
-        "cursorPosition": "9,5",
+        "cursorPosition": "4,97",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1750015483,
+    "lastKnownWriteTime": 1750017541,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1750015483185,
+    "last_content_update": 1750017542007,
     "read_only": false,
     "read_only_alternatives": []
 }

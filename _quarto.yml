@@ -16,11 +16,10 @@ website:
 
 format:
   html:
-    theme:
-        light: flatly
-        dark: darkly
+    theme:  [flatly, assets/styling/theme.scss]
     css: styles.css
     toc: true
+    pagetitle: "Energiek TWenterand | {{< meta title >}}"
 
 
 

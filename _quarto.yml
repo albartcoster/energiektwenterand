@@ -11,20 +11,14 @@ website:
         text: Begin
       - href: about.qmd
         text: Ons verhaal
-      - href: cooperatie.qmd
-        text: Coöperatie
-      - href: projecten.qmd
-        text: Projecten
-      - href: blog.qmd
-        text: Blog
       - href: contact.qmd
         text: Contact
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+        light: flatly
+        dark: darkly
     css: styles.css
     toc: true
 

@@ -1,16 +1,23 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Over ons",
+    "section": "",
+    "text": "De coöperatie is voorjaar 2025 opgericht."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Bestuur",
+    "section": "",
+    "text": "Bestuur\nDe coöperatie werkt met een bestuur dat op dit moment bestaat uit 4 mensen. Voorzitter is Hidde Visser, secretaris is Albart Coster, penningmeester is Gerard Sanderman en algemeen bestuurslid is Jan Veerenhuis.\nU kunt het bestuur van de coöperatie bereiken via dit emailadres. De penningmeester kunt u bereiken via dit emailadres."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Energiektwenterand",
     "section": "",
-    "text": "Coöperatie Energiek Twenterand zet zich in voor duurzaamheidsinitiatieven in gemeente Twenterand."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Energiek Twenterand is de energiecoöperatie in de gemeente Twenterand. De coöperatie zet zich in voor initiativen voor duurzame energie en energiebesparing in de gemeente. Daarnaast neemt de coöperatie deel aan energieprojecten in de gemeente Twenterand.\nBewoners van de gemeente Twenterand kunnen lid worden van de coöperatie. Door hun lidmaatschap kunnen ze participeren in energieprojecten, baat hebben bij initieven van de coöperatie en zelf invloed uitoefenen via de coöperatie."
   }
 ]

@@ -3,3 +3,5 @@ title: "Over ons"
 ---
 
 De coöperatie is voorjaar 2025 opgericht.
+
+![Oprichting](images/oprichting.jpg){width=80%}

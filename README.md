@@ -1,1 +1,1 @@
-ECHO is on.
+Code van de website van [Energiek Twenterand](https://www.energiektwenterand.nl)

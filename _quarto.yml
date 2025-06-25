@@ -11,6 +11,8 @@ website:
         text: Begin
       - href: about.qmd
         text: Ons verhaal
+      - href: blog.qmd
+        text: Blog
       - href: contact.qmd
         text: Contact
 

@@ -1,5 +1,8 @@
 ---
-title: "blog"
-format: html
+title: "Weblog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
 ---
-

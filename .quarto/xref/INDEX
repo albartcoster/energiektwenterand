@@ -16,5 +16,11 @@
   },
   "projecten.qmd": {
     "projecten.html": "a66cda1e"
+  },
+  "posts/ledenvergaderingov.qmd": {
+    "ledenvergaderingov.html": "5a0fbcbd"
+  },
+  "posts/index.qmd": {
+    "index.html": "cd6b83c1"
   }
 }

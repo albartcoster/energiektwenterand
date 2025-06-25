@@ -1,0 +1,9 @@
+---
+title: "Oprichting Energiek Twenterand"
+image: oprichting.jpg
+description: "Oprichting energiecoöperatie"
+author: "Albart Coster"
+date: "3/12/2025"
+categories:
+  - Nieuws
+---

@@ -13,8 +13,11 @@ website:
         text: Ons verhaal
       - href: blog.qmd
         text: Blog
+      - href: documenten.qmd
+        text: Documenten
       - href: contact.qmd
         text: Contact
+        
 
 format:
   html:

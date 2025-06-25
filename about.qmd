@@ -2,6 +2,5 @@
 title: "Over ons"
 ---
 
-De coöperatie is voorjaar 2025 opgericht.
+De coöperatie is voorjaar 2025 opgericht, zie [deze post](posts/20250312_oprichting/index.qmd). U vindt onze oprichtingsacte [hier](images/actevanoprichtingET.pdf)
 
-![Oprichting](images/oprichting.jpg){width=80%}

@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Energiek Twenterand"
+  favicon: "assets/favicon_io/favicon-16x16.png"
   navbar:
     logo: "images/energiektwenterand.png"
     left:
@@ -24,7 +25,7 @@ format:
     theme:  [flatly, assets/styling/theme.scss]
     css: styles.css
     toc: true
-    pagetitle: "Energiek TWenterand | {{< meta title >}}"
+    pagetitle: "Energiek TWenterand"
 
 
 

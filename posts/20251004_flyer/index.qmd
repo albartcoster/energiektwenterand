@@ -1,9 +1,14 @@
 ---
 title: "Presentatie Energiek Twenterand voor gemeenteraadsverkiezingen 2026"
-image: ECO.png
+image: windmolen.jpeg
 description: "Flyer voor Gemeenteraadsverkiezingen"
-author: "Albart Coster"
+author: "Energiek Twenterand"
 date: "10/5/2025"
+format:
+  html: default
+  pdf:
+    number-sections: true
+    colorlinks: true
 categories:
   - Presentatie
   - Politiek

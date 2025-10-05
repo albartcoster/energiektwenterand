@@ -26,6 +26,9 @@ format:
     css: styles.css
     toc: true
     pagetitle: "Energiek TWenterand"
+    
+resources:
+  - CNAME
 
 
 

@@ -38,5 +38,11 @@
   "posts/20251004_flyer/index.qmd": {
     "index.html": "a91bd089",
     "index.tex": "2aa9e61b"
+  },
+  "posts/20250401_windmolens/index.qmd": {
+    "index.html": "07e99028"
+  },
+  "posts/20250502_zonnepark/index.qmd": {
+    "index.html": "9c762a39"
   }
 }

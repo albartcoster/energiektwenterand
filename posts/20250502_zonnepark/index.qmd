@@ -1,0 +1,11 @@
+---
+title: "Drijvend Zonnepark"
+image: drijvend_zonnepark.jpg
+description: "Drijvend Zonnepark"
+author: "Albart Coster"
+date: "5/2/2025"
+categories:
+  - Nieuws
+---
+
+In het kader van de energietransitie zijn er plannen voor een drijvend zonnepark op de zandafgraving Oosterweilanden. In grote lijnen zou er op 10% van het wateroppervlak zonnepanelen komen. Dit project valt ook onder het criterium van minimaal 50% lokaal eigendom en Energiek Twenterand is hierover in gesprek met de ontwikkelaar. Voorbeelden van een drijvend zonnepark zijn te vinden in Zwolle en Tynaarlo.

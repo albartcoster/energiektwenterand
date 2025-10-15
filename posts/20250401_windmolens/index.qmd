@@ -2,7 +2,7 @@
 title: "Windmolens in Twenterand"
 image: windmolen.jpeg
 description: "Windmolens in Twenterand"
-author: "Albart Coster"
+author: "Jan Veerenhuis"
 date: "4/1/2025"
 categories:
   - Nieuws

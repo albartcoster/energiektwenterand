@@ -2,7 +2,7 @@
 title: "Drijvend Zonnepark"
 image: drijvend_zonnepark.jpg
 description: "Drijvend Zonnepark"
-author: "Albart Coster"
+author: "Jan Veerenhuis"
 date: "5/2/2025"
 categories:
   - Nieuws

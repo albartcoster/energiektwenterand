@@ -6,9 +6,10 @@ author: "Energiek Twenterand"
 date: "10/5/2025"
 format:
   html: default
-  pdf:
+  PrettyPDF-pdf:
     number-sections: true
     colorlinks: true
+
 categories:
   - Presentatie
   - Politiek

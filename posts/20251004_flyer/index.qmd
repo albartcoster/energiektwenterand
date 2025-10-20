@@ -6,9 +6,15 @@ author: "Energiek Twenterand"
 date: "10/5/2025"
 format:
   html: default
-  PrettyPDF-pdf:
-    number-sections: true
-    colorlinks: true
+  pdf:
+      include-in-header: 
+       - "PrettyPDF.tex"
+      include-before-body:
+       - "pagestyle.tex"
+      toc: false
+      code-block-bg: light
+      linkcolor: highlight
+      urlcolor: highlight
 
 categories:
   - Presentatie
@@ -16,17 +22,18 @@ categories:
   - Verkiezingen
 ---
 
-De gemeenteraadsverkiezingen op 18 maart 2026 bieden een kans om in Gemeente Twenterand verdere stappen te zetten in de energietransitie. Energiek Twenterand is een coöperatie opgericht om als inwoners, gezamenlijk met politiek en bedrijfsleven te werken aan deze transitie. 
+De gemeenteraadsverkiezingen op 18 maart 2026 bieden een kans om in Gemeente Twenterand verdere stappen te zetten in de energietransitie en verduurzaming. Energiek Twenterand is een recent opgerichte energiecoöperatie. Doel van Energiek Twenterand is dat bewoners van de gemeente Twenterand, door participatie in projecten, samen met het bedrijfsleven en de politiek, bij kunnen dragen aan deze transitie. 
 
-Dit vraagt om een keuzes van de politieke partijen, voor en na de verkiezingen:
+Het is voor Energiek Twenterand belangrijk om de komende jaren goed op gang te komen. Dit vraagt om aansprekende en nieuwe initiatieven waar burgers van de gemeente zich in kunnen vinden en bereid zijn om in te participeren. Echter, voor het welslagen van de coöperatie is samenwerking en overleg de politiek ook belangrijk.
 
-1. Benoem Energiek Twenterand in uw verkiezingsprogramma. 
-2. Kies voor aanpak van de energietransitie samen met Energiek Twenterand. 
-3. Ambieer een faciliterende rol in de energietransitie, ook in aanpak van netwerken en opslagsystemen. 
-4. Gebruik maatschappelijk vastgoed als een drager in de energietransitie. 
+Met de gemeenteraadsverkiezingen in zicht willen we uw aandacht graag op onze energiecoöperatie richten. Wij ambiëren goede samenwerking met de politieke partijen en zouden graag de volgende stappen gerealiseerd zien worden:
 
+1. Door Energiek Twenterand in uw verkiezingsprogramma te noemen krijgt de coöperatie aandacht.
+2. Door initiatieven en plannen op het gebied van energietransitie samen met Energiek Twenterand onder de aandacht te brengen krijgt de energiecoöperatie aandacht. Verder biedt dit ook mogelijkheden voor burgers in gemeente Twenterand om in nieuwe projecten te participeren. Op deze manier voldoen nieuwe projecten ook aan de richtlijnen voor omgevingsparticipatie, zoals verwoord in het energieakkoord van 2019.
+3. Voor welslagen van nieuwe initatieven van de Energiecoöperatie is een goede samenwerking met de gemeeentelijke politiek belangrijk. Wij vragen om een faciliterende en welwillende rol in de ontwikkeling van mogelijke projecten.
+4. Wellicht kan maatschappelijk vastgoed gebruikt worden in ontwikkeling van nieuwe projecten. Ook dit zal goede samenwerking en uitwisseling van informatie tussen de gemeentelijke politiek en de energiecoöperatie vereisen.
 
-Bent u benieuwd naar meer informatie over ons, bekijk dan onze [website](https://energiektwenterand.nl)
+Graag zijn wij bereid tot hernieuwde kennismaking en uitwisseling van informatie en ideeën. Verder willen wij graag verwijzen naar onze website: [website](https://energiektwenterand.nl)
 
 
 

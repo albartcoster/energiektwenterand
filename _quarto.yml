@@ -4,9 +4,9 @@ project:
 
 website:
   title: "Energiek Twenterand"
-  favicon: "assets/favicon_io/favicon-16x16.png"
+  favicon: "assets/favicon_io/logo1klein.jpg"
   navbar:
-    logo: "images/energiektwenterand.png"
+    logo: "assets/favicon_io/logo1.jpg"
     left:
       - href: index.qmd
         text: Begin

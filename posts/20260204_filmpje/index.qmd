@@ -1,0 +1,13 @@
+---
+title: "Filmpje over Energiek"
+image: beeld.png
+description: "Filmpje"
+author: "Albart Coster"
+date: "02/05/2026"
+categories:
+  - Film
+  - Energie
+  - Twenterand
+---
+
+{{< video https://youtu.be/p80bP5b3UgQ >}}

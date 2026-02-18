@@ -1,0 +1,13 @@
+---
+title: "Filmpje over Energiecafé Rabobank"
+image: scsht.png
+description: "Filmpje"
+author: "Albart Coster"
+date: "02/18/2026"
+categories:
+  - Film
+  - Energie
+  - Rabobank
+---
+
+{{< video https://brandportal.rabobank.nl/readimage.aspx/asset.mp4?pubid=hCd6ZmuwtQYmRzTI9L876g >}}
